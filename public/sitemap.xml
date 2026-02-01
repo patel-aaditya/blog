@@ -4,21 +4,21 @@
         <loc>http://127.0.0.1:1111/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/posts/</loc>
+        <loc>http://127.0.0.1:1111/blog/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/posts/nepal/</loc>
+        <loc>http://127.0.0.1:1111/blog/nepal/</loc>
         <lastmod>2025-12-10</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/posts/page/1/</loc>
+        <loc>http://127.0.0.1:1111/blog/page/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/posts/the-comfort-of-being-uknown/</loc>
-        <lastmod>2026-01-15</lastmod>
-    </url>
-    <url>
-        <loc>http://127.0.0.1:1111/posts/the-empty-podium/</loc>
+        <loc>http://127.0.0.1:1111/blog/the-comfort-of-being-unknown/</loc>
         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:1111/blog/the-empty-podium/</loc>
+        <lastmod>2026-01-15</lastmod>
     </url>
 </urlset>
