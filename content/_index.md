@@ -1,8 +1,3 @@
 +++
-title = "Aadi’s Archive"
-template = "index.html"
+redirect_to = "/blog/"
 +++
-
-Welcome to my writing.
-
-[Enter the blog →](/blog/)
