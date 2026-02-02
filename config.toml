@@ -1,6 +1,6 @@
 theme = "duckquill"
 title = "Aaditya’s Blog"
-base_url = "http://127.0.0.1:1111"
+base_url = "https://patel-aaditya.github.io"
 
 
 # Whether to automatically compile all Sass files in the sass directory
