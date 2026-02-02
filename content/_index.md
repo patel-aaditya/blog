@@ -1,6 +1,6 @@
 +++
 title = "Aadi’s Archive"
-template = "page.html"
+template = "section.html"
 +++
 
 Welcome.
