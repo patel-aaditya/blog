@@ -6,9 +6,13 @@ template = "article.html"
 +++
 
 We love new places for a simple reason: 
+
 there we exist without a definition. 
+
 No past to carry, no role to play, 
+
 no eyes that know us well enough to stay.
+
 
 We walk unnamed through borrowed streets,
 a living ghost with steady feet.
