@@ -30,6 +30,7 @@ unfixed by rules, untouched by laws.
 Unseen, unmeasured, undefined —
 both state and absence intertwined.
 
-A paradox the world can’t prove, perfect because it doesn’t move.
+A paradox the mind can’t bind,
+whole, by leaving self behind.
 
 
